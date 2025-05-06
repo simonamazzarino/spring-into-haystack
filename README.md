@@ -2,14 +2,14 @@
 <img width="300" alt="Spring into haystack logo with flowers, bee and butterfly on the logo, giving spring vibes" src="/logo/spring-into-haystack-logo.png" />
 </p>
 
-Welcome to the 🌸 [Spring Into Haystack](https://haystack.deepset.ai/spring-into-haystack) 🌸 your chance to cultivate something useful, elegant, and powerful — just like spring itself! 🌼
+Welcome to the 🌸 [Spring Into Haystack](https://haystack.deepset.ai/spring-into-haystack) 🌸 your chance to cultvate something useful, elegant, and powerful — just like spring itself! 🌼
 
 ## 🪻 Your Spring Challenge
 
 Your mission is to build a **tool-using Haystack Agent** that acts as an **MCP Client** and connects to the [GitHub MCP Server](https://github.com/github/github-mcp-server). Once connected, your Agent will be able to call GitHub tools — all through the power of the Model Context Protocol.
 
 To get started, check out the scaffolded starter code in [`github-agent.py`](src/github-agent.py). You’ll need to:
-- Implement the missing parts
+- Implement the mssing parts
 - Configure your Agent to connect to the GitHub MCP server
 - Make sure the Agent can reason and act based on tool outputs
 
