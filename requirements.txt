@@ -1,2 +1,3 @@
-haystack-ai
+haystack-ai==2.12.2
 mcp-haystack
+uvx==1.0.3
